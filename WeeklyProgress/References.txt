@@ -1,0 +1,1 @@
+Setting up raspbian OS : https://www.youtube.com/watch?v=pqTsMWI_noA
